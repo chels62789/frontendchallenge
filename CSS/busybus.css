@@ -1,61 +1,35 @@
-/* Rectangle 1 */
+h1 {
+  text-align: Center;
+  font-size: 1.75em;
 
-.rectangle1 {
-position: absolute;
-width: 375px;
-height: 44px;
-left: -313px;
-top: -150px;
-
-background: #FAF3E2;
 }
 
-/* Rectangle 2 */
+h2 {
+  font-size: 1em;
+  padding: 1%;
+}
 
-.rectangle2 {
-position: absolute;
-width: 375px;
-height: 44px;
-left: -313px;
-top: -61px;
+table {
+ table-layout: fixed;
+  width: 100%;
 
-background: #FAF3E2;
 }
 
 
-/* Rectangle 3 */
+table th {
+  background-color: #e3e3e3;
+  color: #000;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: left;
+  padding: 1%;
 
-.rectangle3{
-position: absolute;
-width: 375px;
-height: 44px;
-left: 0px;
-top: 501px;
 
-background: #FFFFFF;
 }
 
-/* Rectangle 4 */
-.rectanlge4
-{
-position: absolute;
-width: 375px;
-height: 44px;
-left: 2px;
-top: 590px;
+table td {
+  font-size: .75em;
+  padding: 1%;
+  text-align: left;
 
-background: #FFFFF;
-}
-
-/* Rectangle 5 */
-
-.rectable5
-{
-position: absolute;
-width: 375px;
-height: 44px;
-left: -0.5px;
-top: 678px;
-
-background: #FFFFFF;
 }
