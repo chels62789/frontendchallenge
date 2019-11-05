@@ -1,35 +1,58 @@
+body {
+  font-family: Helvetica;
+  background-color: #e3e3e3;
+
+}
+
+
 h1 {
   text-align: Center;
-  font-size: 1.75em;
+  font-size: 1.25em;
+  padding-top: 10%;
+  padding-bottom: 3%;
+  color: #000000;
+  background-color: #F5F5F5;
 
 }
 
 h2 {
-  font-size: 1em;
-  padding: 1%;
+  font-size: .75em;
+  padding: 3%;
+  text-transform: uppercase;
+  color: #696969;
+
+
 }
 
 table {
  table-layout: fixed;
   width: 100%;
+  background-color: #ffff;
+
+
 
 }
 
 
 table th {
-  background-color: #e3e3e3;
+
   color: #000;
-  font-weight: bold;
-  font-size: 1em;
+  font-size: .75em;
   text-align: left;
-  padding: 1%;
+  padding: 3%;
+  text-align: left;
+  border-bottom: 1px solid #e3e3e3;
+
 
 
 }
 
 table td {
   font-size: .75em;
-  padding: 1%;
+  padding: 3%;
   text-align: left;
+  border-bottom: 1px solid #e3e3e3;
+  color: #696969;
+
 
 }
