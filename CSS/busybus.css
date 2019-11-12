@@ -4,7 +4,8 @@ body {
 }
 
 .container {
-  width: 375px
+  width: 3px;
+  display: inline;
 }
 
 h1 {
@@ -21,29 +22,33 @@ h2 {
   padding: 3%;
   text-transform: uppercase;
   color: #696969;
+  float: left;
+  text-align: left;
 }
 
-table {
- table-layout: fixed;
-  width: 100%;
-  background-color: #ffff;
+li {
+  display: inline;
 }
 
-
-table th {
-
+ .a {
+  display: inline;
+  list-style-type: none;
   color: #000;
   font-size: .75em;
-  text-align: left;
-  padding: 3%;
+  font-weight: bold;
+  padding: 5%;
+  float: left;
   text-align: left;
   border-bottom: 1px solid #e3e3e3;
+
 }
 
-table td {
+.b {
+  display: inline;
+  list-style-type: none;
   font-size: .75em;
   padding: 3%;
-  text-align: left;
+  float: left;
   border-bottom: 1px solid #e3e3e3;
   color: #696969;
 }
