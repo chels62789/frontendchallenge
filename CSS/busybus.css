@@ -14,8 +14,7 @@ h1 {
   padding-top: 8%;
   padding-bottom: 3%;
   color: #fff;
-  color: #000;
-  background-color: #e3e3e3;
+  background-color: #5FAED0;
 }
 
 h2 {
@@ -26,8 +25,8 @@ h2 {
   float: left;
   text-align: left;
   width: 100%;
-  color: #fff;
-  background-color: #5FAED0;
+  color: #000;
+  background-color: #FAF3E2;
 }
 
  li {
@@ -36,25 +35,25 @@ h2 {
 }
 
 .column-1 {
-  padding: 1%;
-  width: 13%;
+  padding: 2%;
+  width: 11%;
 }
 
 .column-2 {
-  padding: 1%;
-  width: 35%;
+  padding: 2%;
+  width: 39%;
 }
 
 .column-3 {
-  padding: 1%;
-  width: 44%;
+  padding: 2%;
+  width: 36%;
 }
 
 .row {
   display: inline;
   list-style-type: none;
   font-size: .75em;
-  padding: 1%;
+  padding: 2%;
   float: left;
   width: 100%;
   border-bottom: 1px solid #e3e3e3;
@@ -68,9 +67,11 @@ h2 {
   font-size: .75em;
   font-weight: medium;
   padding: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
   float: left;
   width: 100%;
-  background-color: #e3e3e3;
+  background-color: #F6F6F6;
   border-bottom: 1px solid #e3e3e3;
 }
 
@@ -80,5 +81,5 @@ h2 {
 }
 
 .row-2 {
-  background-color: #FAF3E2;
+  background-color: #F6F6F6;
 }
