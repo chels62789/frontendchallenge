@@ -11,10 +11,10 @@ body {
 h1 {
   text-align: Center;
   font-size: 1.25em;
-  padding-top: 10%;
+  padding-top: 8%;
   padding-bottom: 3%;
-  color: #000000;
-  background-color: #F5F5F5;
+  color: #fff;
+  background-color: #5FAED0;
 }
 
 h2 {
@@ -25,13 +25,25 @@ h2 {
   float: left;
   text-align: left;
   width: 100%;
+  background-color: #F6F6F6;
 }
 
  li {
   display: inline;
 }
 
- .a {
+.row {
+  display: inline;
+  list-style-type: none;
+  font-size: .75em;
+  padding: 20%;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #e3e3e3;
+  color: #696969;
+}
+
+ .row-a {
   display: inline;
   list-style-type: none;
   color: #000;
@@ -41,18 +53,15 @@ h2 {
   float: left;
   text-align: left;
   width: 100%;
-  background-color: #F5F5F5;
+  background-color: #fff;
   border-bottom: 1px solid #e3e3e3;
-
 }
 
-.b {
-  display: inline;
-  list-style-type: none;
-  font-size: .75em;
-  padding: 3%;
-  float: left;
-  width: 100%;
-  border-bottom: 1px solid #e3e3e3;
-  color: #696969;
+
+.row-1 {
+  background-color: #F5F5F5;
+}
+
+.row-2 {
+  background-color: #FAF3E2;
 }
