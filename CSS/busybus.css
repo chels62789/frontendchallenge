@@ -30,6 +30,7 @@ h2 {
 
  li {
   display: inline;
+  padding: inherit;
 }
 
 .row {
@@ -38,6 +39,7 @@ h2 {
   font-size: .75em;
   padding: 3%;
   float: left;
+  text-align: left;
   width: 100%;
   border-bottom: 1px solid #e3e3e3;
   color: #696969;
