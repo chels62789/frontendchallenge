@@ -1,11 +1,11 @@
 body {
-  font-family: Helvetica;
+  font-family: sans-serif;
   background-color: #e3e3e3;
 }
 
 .container {
-  width: 3px;
-  display: inline;
+  width: 375px;
+  margin: auto;
 }
 
 h1 {
@@ -26,7 +26,7 @@ h2 {
   text-align: left;
 }
 
-li {
+ li {
   display: inline;
 }
 
