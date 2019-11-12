@@ -24,6 +24,7 @@ h2 {
   color: #696969;
   float: left;
   text-align: left;
+  width: 100%;
 }
 
  li {
@@ -39,6 +40,8 @@ h2 {
   padding: 5%;
   float: left;
   text-align: left;
+  width: 100%;
+  background-color: #F5F5F5;
   border-bottom: 1px solid #e3e3e3;
 
 }
@@ -49,6 +52,7 @@ h2 {
   font-size: .75em;
   padding: 3%;
   float: left;
+  width: 100%;
   border-bottom: 1px solid #e3e3e3;
   color: #696969;
 }
