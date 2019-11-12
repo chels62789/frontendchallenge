@@ -36,7 +36,7 @@ h2 {
   display: inline;
   list-style-type: none;
   font-size: .75em;
-  padding: 20%;
+  padding: 3%;
   float: left;
   width: 100%;
   border-bottom: 1px solid #e3e3e3;
@@ -48,18 +48,18 @@ h2 {
   list-style-type: none;
   color: #000;
   font-size: .75em;
-  font-weight: bold;
-  padding: 5%;
+  font-weight: medium;
+  padding: 3%;
   float: left;
   text-align: left;
   width: 100%;
-  background-color: #fff;
+  background-color: #F6F6F6;
   border-bottom: 1px solid #e3e3e3;
 }
 
 
 .row-1 {
-  background-color: #F5F5F5;
+  background-color: #ffff;
 }
 
 .row-2 {
