@@ -97,15 +97,23 @@ h2 {
   background-color: #F6F6F6;
 }
 
+.tab-bar{
+  bottom: 0;
+  left: 0;
+  position: fixed;
+}
+
 .tab-bar-icon {
-  border-top: 1px solid #8E8E93;
+  bottom: 5%;
+  left: 0;
+  position: fixed;
   display: inline-block;
   width: 375px;
   padding-top: 1%;
 
 }
 
-.tab-bar {
+.tab-bar-words{
   display: inline-block;
   color: #979797;
   font-size: .8em;
