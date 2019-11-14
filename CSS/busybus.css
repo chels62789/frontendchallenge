@@ -42,9 +42,9 @@ h2 {
   background-color: #FAF3E2;
 }
 
- li {
-  display: inline-block;
-  padding: inherit;
+li {
+ display: inline-block;
+ padding: inherit;
 }
 
 .column-1 {
@@ -110,7 +110,6 @@ h2 {
   display: inline-block;
   width: 375px;
   padding-top: 1%;
-
 }
 
 .tab-bar-words{
