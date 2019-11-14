@@ -1,3 +1,13 @@
+
+.map {
+  width: 375px;
+  display: inline-block;
+  float:left;
+  padding-bottom: 5%;
+}
+
+
+
 body {
   font-family: sans-serif;
   background-color: #e3e3e3;
@@ -11,8 +21,9 @@ body {
 h1 {
   text-align: Center;
   font-size: 1.4em;
-  padding-top: 8%;
+  padding-top: 20%;
   padding-bottom: 4%;
+  width: 100%;
   color: #fff;
   background-color: #5FAED0;
 }
@@ -25,7 +36,7 @@ h2 {
   color: #696969;
   float: left;
   text-align: left;
-  width: 100%;
+  width: 94%;
   color: #8E8E93;
   background-color: #FAF3E2;
 }
@@ -37,17 +48,17 @@ h2 {
 
 .column-1 {
   padding: 2%;
-  width: 11%;
+  width: 10%;
 }
 
 .column-2 {
   padding: 2%;
-  width: 39%;
+  width: 37%;
 }
 
 .column-3 {
   padding: 2%;
-  width: 36%;
+  width: 35%;
 }
 
 .row {
@@ -56,7 +67,7 @@ h2 {
   font-size: .75em;
   padding: 2%;
   float: left;
-  width: 100%;
+  width: 96%;
   border-bottom: 1px solid #e3e3e3;
   color: #696969;
 }
@@ -70,8 +81,8 @@ h2 {
   padding: 1%;
   padding-top: .5%;
   padding-bottom: .5%;
+  width: 98%;
   float: left;
-  width: 100%;
   background-color: #F6F6F6;
   border-bottom: 1px solid #e3e3e3;
 }
@@ -83,5 +94,35 @@ h2 {
 
 .row-2 {
   background-color: #F6F6F6;
+}
 
+.tab-bar-icon {
+  display: inline-block;
+  width: 375px;
+
+}
+
+.tab-bar {
+  display: inline-block;
+  color: #979797;
+  font-size: .8em;
+  background-color: #F6F6F6;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  width: 100%;
+}
+
+.column-a {
+  text-align: center;
+  width: 33%;
+}
+
+.column-b {
+  text-align: center;
+  width: 32%;
+}
+
+.column-c {
+  text-align: center;
+  width: 29%;
 }
