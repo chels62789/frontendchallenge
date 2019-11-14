@@ -16,6 +16,7 @@ body {
 .container {
   width: 375px;
   margin: auto;
+  background-color: #F6F6F6;
 }
 
 h1 {
@@ -97,8 +98,10 @@ h2 {
 }
 
 .tab-bar-icon {
+  border-top: 1px solid #8E8E93;
   display: inline-block;
   width: 375px;
+  padding-top: 1%;
 
 }
 
@@ -107,22 +110,22 @@ h2 {
   color: #979797;
   font-size: .8em;
   background-color: #F6F6F6;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  padding-top: 1%;
+  padding-bottom: 3%;
   width: 100%;
 }
 
 .column-a {
   text-align: center;
-  width: 33%;
+  width: 35%;
 }
 
 .column-b {
   text-align: center;
-  width: 32%;
+  width: 31%;
 }
 
 .column-c {
   text-align: center;
-  width: 29%;
+  width: 30%;
 }
